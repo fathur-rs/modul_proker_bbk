@@ -37,7 +37,7 @@ h1, h2, h3, h4, h5, h6 {
   right: 15px;
   bottom: 15px;
   z-index: 996;
-  background: #0563bb;
+  background: #f7cf1c;
   width: 40px;
   height: 40px;
   border-radius: 50px;
@@ -45,12 +45,12 @@ h1, h2, h3, h4, h5, h6 {
 }
 .back-to-top i {
   font-size: 28px;
-  color: #fff;
+  color: #1952a1;
   line-height: 0;
 }
 .back-to-top:hover {
-  background: #0678e3;
-  color: #fff;
+  background: #d9b100;
+  color: #1952a1;
 }
 .back-to-top.active {
   visibility: visible;
@@ -128,7 +128,7 @@ h1, h2, h3, h4, h5, h6 {
   #header {
     width: 300px;
     background: transparent;
-    border-right: 1px solid #e6e9ec;
+    /* border-right: 1px solid #e6e9ec; */
     left: -300px;
   }
 }
@@ -190,7 +190,7 @@ h1, h2, h3, h4, h5, h6 {
 }
 .nav-menu a:hover, .nav-menu .active, .nav-menu .active:focus, .nav-menu li:hover > a {
   color: #fff;
-  background: rgb(255, 200, 0);
+  background: #f7cf1c;
 }
 .nav-menu a:hover span, .nav-menu .active span, .nav-menu .active:focus span, .nav-menu li:hover > a span {
   color: #fff;
